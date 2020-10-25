@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/20d88821408f43c98b98cf6913db836c)](https://app.codacy.com/gh/spinsage/koa-js-starter-rest?utm_source=github.com&utm_medium=referral&utm_content=spinsage/koa-js-starter-rest&utm_campaign=Badge_Grade)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Build Status](https://travis-ci.com/spinsage/koa-js-starter-rest.svg?branch=main)](https://travis-ci.com/spinsage/koa-js-starter-rest)
 [![Black Duck Security Risk](https://copilot.blackducksoftware.com/github/repos/spinsage/koa-js-starter-rest/branches/main/badge-risk.svg)](https://copilot.blackducksoftware.com/github/repos/spinsage/koa-js-starter-rest/branches/main)
